@@ -1,0 +1,33 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>icon2.ico</file>
+        <file>icons/camera-photo.png</file>
+        <file>icons/camera-video.png</file>
+        <file>icons/edit-clear.png</file>
+        <file>icons/emblem-important.png</file>
+        <file>icons/emblem-symbolic-link.png</file>
+        <file>icons/emblem-system.png</file>
+        <file>icons/emblem-unreadable.png</file>
+        <file>icons/image-x-generic.png</file>
+        <file>icons/network-server.png</file>
+        <file>icons/preferences-system.png</file>
+        <file>icons/user-trash.png</file>
+        <file>icons/utilities-system-monitor.png</file>
+        <file>icons/video-display.png</file>
+        <file>icons/video-x-generic.png</file>
+        <file>icons/view-refresh.png</file>
+        <file>icons/x-office-calendar.png</file>
+        <file>icons/go-down.png</file>
+        <file>icons/process-stop.png</file>
+        <file>icons/applications-multimedia.png</file>
+        <file>icons/list-add.png</file>
+        <file>icons/list-remove.png</file>
+        <file>icons/emblem-important-small.png</file>
+        <file>icons/folder-remote.png</file>
+        <file>icons/system-file-manager.png</file>
+        <file>icons/document-save.png</file>
+    </qresource>
+    <qresource prefix="/translation">
+        <file>ancam_ja.qm</file>
+    </qresource>
+</RCC>

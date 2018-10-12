@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=安全安心カメラ
+GenericName=安全安心カメラ
+Comment=安全安心カメラシステムのGUI
+Exec=/opt/ancamgui/ancamgui
+Icon=/opt/ancamgui/icon.svg
+Terminal=false
+Categories=Application;
+StartupNotify=true
+
