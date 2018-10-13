@@ -69,3 +69,7 @@ DISTFILES += \
 win32 {
     RC_FILE = win.rc
 }
+
+# install
+target.path = /bin
+INSTALLS += target
